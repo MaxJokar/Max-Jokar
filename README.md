@@ -1,5 +1,19 @@
 # 💫 About Me:
-I'm Python&Django dev/tutor<br> ,Certified Python Developer, <br> dominance at Django framework<br> & Angular.In My Git i'd just  like to keep<br> some important codes to...
+I am a researcher lingusitic  AI(Certified Python Developer, also dominance at Django framework) +(former English lang Tutor)  & Angular developer. 
+    I love programming and it's challenges and I'd love t grow.🌱 
+👯 I’m looking to collaborate with Fullstack Web.
+My github:
+https://github.com/MaxJokar
+
+🤔 I’m looking for help with Open source Contribution and improving my skills.
+
+  And also, I’m currently working on Backend Web Development ML 💻except for (Python,Django,RestFull, FastAPI)that I did before.It's very cool/awesome to code and find out the prediction some events:)📈📉 and many other things too. Although in reality it is beyond the real life to predict and get the closest result and make dacision for that event such as :stock/exchange market📈, the weather🏖️ , whatever needs to predict , buy/sell or trade cryptocurrency, chatGDP,🗿 BOTs and a lot more out there :) 🌱 & sometimes like to upgrade my Frontend Development as well. 🤔 I BELIEVE THE FUTHRE WILL BE COOL USING AI, particularly in engineering, educarion, medicinne and even more beyond our imagination. 😉
+
+    Having practised more than 10  years with perfect result in  English, Russian & Ukrainain  language- field with  skills and capability of programming language Python, django, HTML Css I ended up to Look  for  a fruitful, lucrative career in a prestiguous IT company to work for. 
+I am strong-willed, diligence, energetic, determined. And Id rather hang out with Fellows or  co-workers in my spare time. 
+I am keen on developing egames, particularly, English language or others ones. 
+Here Is my track record :Google =Max Jokar, 
+GitHub:Max jokar
 
 
 ## 🌐 Socials:
